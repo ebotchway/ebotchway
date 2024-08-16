@@ -57,6 +57,7 @@ Developed a secure and efficient bulk mobile money payment portal for Ghana Unio
 ## 📈 GitHub Stats & Trophies
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebotchway&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebotchway&layout=compact&theme=radical)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ebotchway&theme=radical)
 
 ## 🎯 Testimonials
